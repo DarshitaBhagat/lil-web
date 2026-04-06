@@ -1,0 +1,63 @@
+
+
+    p{
+        font-family: Arial;
+        margin-top : 0;
+        margin-bottom : 0;
+    }
+
+
+    .ai{
+        
+        font-size: 18px;
+        font-weight: bold;
+        width : 300px;
+        line-height: 24px;
+        margin-bottom : 5px;
+    }
+
+    .stats{
+        
+        font-size: 14px;
+        color: gray;
+        margin-top : 0;
+    }
+
+    .name{
+        
+        font-size: 14px;
+        color: gray;
+        margin-top : 20px;
+    }
+
+    .content{
+        
+        width : 300px;
+        font-size: 16px;
+        line-height: 24px;
+        margin-top : 10px;
+        line-height: 22px;
+        margin-top: 25px;
+    }
+
+    .apple{
+        font-size: 14px;
+        color: gray;
+        margin-top : 100px;
+        margin-bottom : 50px;
+        background-color: red;
+        color :white;
+        text-align: center;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+
+    .span{
+        color : rgb(110, 154, 247);
+        margin-left: 10px;
+    }
+
+    .span:hover{
+        text-decoration: underline;
+    }
+
