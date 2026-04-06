@@ -1,0 +1,79 @@
+            .subscribe-button {
+                background-color: rgb(255, 0, 0);
+                color: white;
+                font-size: 20px;
+                
+                padding: 10px 10px;
+                border: none;
+                border-radius: 10px;
+                cursor: pointer;
+                margin-left: 20px;
+                margin-right: 30px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 16px;
+                padding-right: 16px;
+                transition : opacity 0.15s ; 
+                vertical-align: top;
+            }
+
+            .subscribe-button:hover{
+                opacity: 0.5;
+
+            }
+
+            .subscribe-button:active{
+                background-color: rgba(236, 156, 146, 0.8);
+
+            }
+
+            .join-button {
+                border-color: rgb(0, 132, 255);
+                border-style: solid;
+                background-color: white;
+                color:rgb(0, 132, 255);
+                font-size: 20px;
+                
+                
+                border-width: 1px;
+                border-radius: 1px;
+                cursor: pointer;
+                padding-top: 9px;
+                padding-bottom: 9px;
+                padding-left: 16px;
+                padding-right: 16px;
+                transition:background-color 0.15s, color 0.15s;
+            }
+
+            .join-button:hover{
+                background-color: rgb(0, 132, 255);
+                color:white;
+
+            }
+
+            .join-button:active{
+                opacity :0.7;
+
+            }
+
+            .tweet-button {
+                background-color: rgb(29, 161, 242);
+                color: white;
+                font-size: 20px;
+                height : 50px;
+                width : 100px;
+                padding: 10px 10px;
+                border: none;
+                border-radius: 30px;
+                cursor: pointer;
+                margin-left: 8px;
+                transition : box-shadow 0.15s;
+                vertical-align: top;
+                
+            }
+
+            .tweet-button:hover{
+                box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+
+
+            }
