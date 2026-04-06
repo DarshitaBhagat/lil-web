@@ -1,0 +1,32 @@
+.pic2 {
+                position: absolute;
+                top: 0px;
+                left: 200px;
+            }
+
+            .pic3 {
+                position: absolute;
+                top: 0px;
+                left: 400px;
+            }
+
+            .pic4 {
+                position: absolute;
+                top: 0px;
+                left: 600px;
+            }
+
+            .pic5 {
+                position: absolute;
+                top: 0px;
+                left: 800px;
+            }
+
+            <img class = "pic2" src = "pics/pic2.png">
+        <img class = "pic3" src = "pics/pic3.png">
+        <img class = "pic4" src = "pics/pic4.png">
+        <img class = "pic5" src = "pics/pic5.png">
+        
+        <p>
+            This is a YouTube clone. It has a search box and a logo. The search box is not functional, but it is there for show. The logo is also not functional, but it is there for show. The rest of the page is just blank, but it is there for show.
+        </p>
